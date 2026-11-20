@@ -33,6 +33,28 @@ AttendAI is a Flutter-based Smart Attendance Management System designed to simpl
 3. Run `flutter pub get`.
 4. Run `flutter run`.
 
+---
+
+## 📱 Application Screenshots
+
+### 1. Splash Screen
+![Splash Screen](screenshots/01-splash-screen.png)
+
+### 2. Role Selection
+![Role Selection](screenshots/02-role-selection.png)
+
+### 3. Teacher Dashboard
+![Teacher Dashboard](screenshots/03-teacher-dashboard.png)
+
+### 4. Student Dashboard
+![Student Dashboard](screenshots/04-student-dashboard.png)
+
+### 5. Attendance PIN
+![Attendance PIN](screenshots/05-enter-attendance-pin.png)
+
+### 6. Attendance Records
+![Attendance Records](screenshots/06-attendance-records.png)
+
 ## Developer
 
 Gurleen Kaur Dhillon
