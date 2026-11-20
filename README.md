@@ -1,17 +1,40 @@
-# flutter_practice
+# AttendAI – Smart Attendance Management System
 
-A new Flutter project.
+AttendAI is a Flutter-based Smart Attendance Management System designed to simplify and digitize classroom attendance.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Separate Teacher and Student Login
+- Six-digit PIN-based attendance system
+- Period-wise attendance management
+- Attendance tracking
+- Teacher and Student dashboards
+- User-friendly interface
 
-A few resources to get you started if this is your first Flutter project:
+## Technology Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Android Studio
+- Visual Studio Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure
+
+- lib/ – Application source code
+- android/ – Android platform files
+- ios/ – iOS platform files
+- assets/ – Application assets
+- test/ – Testing files
+
+## How to Run
+
+1. Clone this repository.
+2. Open the project in VS Code.
+3. Run `flutter pub get`.
+4. Run `flutter run`.
+
+## Developer
+
+Gurleen Kaur Dhillon
+
+B.Tech CSE (AI)
